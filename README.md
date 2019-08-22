@@ -13,4 +13,13 @@
 ```
 #### 对于Windows
 用代代相传的BC31文件夹就行了
-
+#### 对于Linux
+- Ubuntu18.04安装DOSBox
+```
+    sudo apt-get install dosbox
+```
+- 启动DOSBox
+```
+    dosbox
+```
+- 后面步骤和在MacOS一样
